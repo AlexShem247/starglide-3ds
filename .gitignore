@@ -1,0 +1,17 @@
+# Compiled 3ds files
+*.3dsx
+*.elf
+*.cia
+*.smdh
+
+# Visual Studio Files
+*.sln
+*.vcxproj*
+.vshistory
+
+StarGlide
+x64
+
+# Build files
+build
+romfs
